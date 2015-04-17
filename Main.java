@@ -1,6 +1,6 @@
 public class Main {
     /*
-    This is some really high documentation
+    high comment for documenting main()
     */
     public static void main(String[] args) {
         System.out.println("hey watsup!!");
