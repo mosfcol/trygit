@@ -6,6 +6,7 @@ public class Main {
         System.out.println("hey watsup!!");
     }
 
+    // some experiment
     public static void sayhi() {
         System.out.println("say hi!");
     }
