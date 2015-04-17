@@ -1,6 +1,6 @@
 public class Main {
     /*
-    Where we test things
+    normal doc
     */
     public static void main(String[] args) {
         System.out.println("hey watsup!!");
