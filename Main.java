@@ -9,4 +9,8 @@ public class Main {
     public static void sayhi() {
         System.out.println("say hi!");
     }
+
+    public static void print(String str) {
+        System.out.println(str);
+    }
 }
